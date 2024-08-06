@@ -1,0 +1,156 @@
+// assets.js
+import food from "../images/food.jpg";
+import food1 from "../images/food1.jpg";
+import food2 from "../images/food2.jpg";
+import food3 from "../images/food3.jpg";
+import food4 from "../images/food4.jpg";
+import food5 from "../images/food5.jpg";
+import food6 from "../images/food6.jpg";
+
+export const food_list = [
+  {
+    _id: "1",
+    name: "Salad",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "Salad",
+  },
+  {
+    _id: "2",
+    name: "Ramens",
+    image: food1,
+    price: 15,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "Ramens",
+  },
+  {
+    _id: "3",
+    name: "Rools",
+    image: food2,
+    price: 12,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "Rools",
+  },
+  {
+    _id: "4",
+    name: "Deserts",
+    image: food3,
+    price: 12,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "Deserts",
+  },
+  {
+    _id: "5",
+    name: "Sushi",
+    image: food4,
+    price: 12,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "ChineseFood",
+  },
+  {
+    _id: "6",
+    name: "Noodle",
+    image: food5,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "Noodles",
+  },
+  {
+    _id: "7",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  {
+    _id: "8",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  {
+    _id: "9",
+    name: "Salad",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "Salad",
+  },
+  {
+    _id: "10",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  {
+    _id: "11",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  {
+    _id: "12",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  {
+    _id: "13",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  {
+    _id: "14",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  {
+    _id: "15",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  {
+    _id: "16",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  {
+    _id: "17",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  {
+    _id: "18",
+    name: "PureVeg",
+    image: food6,
+    price: 17,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!",
+    category: "PureVeg",
+  },
+  
+];
